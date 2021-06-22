@@ -1,0 +1,15 @@
+img {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px;
+}
+
+.box2 {
+    margin-left: 180px;
+}
+
+.box3 {
+    margin-left: 360px;
+}
